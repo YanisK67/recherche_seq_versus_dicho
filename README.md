@@ -4,7 +4,7 @@
 Ce projet compare deux algorithmes fondamentaux de recherche dans une liste :
 
 -  **Recherche linéaire (séquentielle)**
-- **Recherche dichotomique (binaire)**
+-  **Recherche dichotomique (binaire)**
 
 L’objectif est de comprendre leur fonctionnement, leur complexité et leurs performances.
 
@@ -12,9 +12,7 @@ L’objectif est de comprendre leur fonctionnement, leur complexité et leurs pe
 
 ## Installation
 
-
-Installer matplotlib si nécessaire 
----
+Installer matplotlib si besoin
 
 ## Démo : exécution du programme
 
@@ -70,8 +68,7 @@ Vous pouvez régénérer cette image en exécutant le script.
 - Analyser la **complexité algorithmique** (O(n) vs O(log n))
 
 ## Auteur
-
-**Yanis K.**  (Lycée Notre Dame Providence- Enghien les bains)
 ---
+Yanis Khelif (Lycée Notre Dame Providence- Enghien les bains)
 
 
