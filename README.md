@@ -1,4 +1,4 @@
-# dico_versus_seq
+# recherche_lineaire_vs_dichotomique
 recherche dichotomique versus séquentielle
 # TP Python — Recherche séquentielle vs recherche dichotomique
 
