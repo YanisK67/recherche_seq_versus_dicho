@@ -1,7 +1,7 @@
 
 # Comparaison : Recherche Linéaire vs Recherche Dichotomique
 
-Ce projet illustre et compare deux algorithmes fondamentaux de recherche dans une liste :
+Ce projet compare deux algorithmes fondamentaux de recherche dans une liste :
 
 -  **Recherche linéaire (séquentielle)**
 - **Recherche dichotomique (binaire)**
@@ -12,12 +12,8 @@ L’objectif est de comprendre leur fonctionnement, leur complexité et leurs pe
 
 ## Installation
 
-Assurez-vous d’avoir Python 3 installé.
 
-Installer matplotlib si nécessaire :
-
-pip install matplotlib
-
+Installer matplotlib si nécessaire 
 ---
 
 ## Démo : exécution du programme
@@ -60,23 +56,8 @@ Le script produit un graphique comparant les performances.
 L’image `comparaison.png` correspond à la sortie générée automatiquement par le code.  
 Elle montre l’évolution du temps d’exécution selon la taille des données.
 
- Elle permet de visualiser :
-
-- la croissance linéaire de la recherche séquentielle  
-- la croissance logarithmique de la recherche dichotomique  
 
 Vous pouvez régénérer cette image en exécutant le script.
-
----
-
-##  Comment fonctionne le programme ?
-
-Le script :
-
-✔ génère des tableaux triés aléatoires  
-✔ recherche un élément avec les deux méthodes  
-✔ mesure les temps d’exécution  
-✔ trace un graphique comparatif  
 
 ---
 
@@ -86,12 +67,11 @@ Le script :
   - de la **recherche séquentielle**
   - de la **recherche dichotomique**
 - Mettre en évidence l’impact de la **taille du tableau** sur le temps d’exécution
-- Comprendre pourquoi la recherche dichotomique est plus efficace sur un tableau **trié**
-- Introduire la notion de **complexité algorithmique** (O(n) vs O(log n))
+- Analyser la **complexité algorithmique** (O(n) vs O(log n))
 
 ## Auteur
 
-**Yanis K.**  
+**Yanis K.**  (Lycée Notre Dame Providence- Enghien les bains)
 ---
 
 
